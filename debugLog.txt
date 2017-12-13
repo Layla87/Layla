@@ -1,0 +1,202 @@
+Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Signal/1.0.41 Chrome/56.0.2924.87 Electron/1.6.15 Safari/537.36 node/7.4.0
+INFO  2017-12-13T21:44:53.809Z app ready
+INFO  2017-12-13T21:44:53.840Z Location reset needed
+INFO  2017-12-13T21:44:53.840Z Initializing BrowserWindow config: {"width":800,"height":610,"minWidth":700,"minHeight":360,"autoHideMenuBar":false,"webPreferences":{"nodeIntegration":false,"preload":"C:\\Users\\PC\\AppData\\Local\\Programs\\signal-desktop\\resources\\app.asar\\preload.js"}}
+INFO  2017-12-13T21:44:57.512Z Using OS-level spell check API with locale ar_SA
+INFO  2017-12-13T21:44:57.991Z pre-main prep time: 8 ms
+INFO  2017-12-13T21:44:58.038Z Build expires:  2018-02-26T23:55:00.000Z
+INFO  2017-12-13T21:44:58.070Z background page reloaded
+INFO  2017-12-13T21:44:58.070Z environment: production
+INFO  2017-12-13T21:44:58.393Z migration 1.0
+INFO  2017-12-13T21:44:58.393Z creating object stores
+INFO  2017-12-13T21:44:58.397Z creating debug log
+INFO  2017-12-13T21:44:58.401Z migration 13.0
+INFO  2017-12-13T21:44:58.401Z Adding fields to identity keys
+INFO  2017-12-13T21:44:58.457Z migration 14.0
+INFO  2017-12-13T21:44:58.457Z Adding unprocessed message store
+INFO  2017-12-13T21:44:58.457Z migration 15.0
+INFO  2017-12-13T21:44:58.457Z Adding messages index for de-duplication
+INFO  2017-12-13T21:44:58.457Z migration 16.0
+INFO  2017-12-13T21:44:58.457Z Dropping log table, since we now log to disk
+INFO  2017-12-13T21:44:58.541Z ConversationController: starting initial fetch
+INFO  2017-12-13T21:44:58.541Z ConversationController: done with initial fetch
+INFO  2017-12-13T21:44:58.545Z New version detected: 1.0.41
+INFO  2017-12-13T21:44:58.545Z listening for registration events
+INFO  2017-12-13T21:45:41.221Z Clearing all indexeddb stores
+INFO  2017-12-13T21:45:41.225Z Done clearing store conversations
+INFO  2017-12-13T21:45:41.225Z Done clearing store groups
+INFO  2017-12-13T21:45:41.225Z Done clearing store identityKeys
+INFO  2017-12-13T21:45:41.225Z Done clearing store items
+INFO  2017-12-13T21:45:41.225Z Done clearing store messages
+INFO  2017-12-13T21:45:41.225Z Done clearing store preKeys
+INFO  2017-12-13T21:45:41.225Z Done clearing store sessions
+INFO  2017-12-13T21:45:41.225Z Done clearing store signedPreKeys
+INFO  2017-12-13T21:45:41.225Z Done clearing store unprocessed
+INFO  2017-12-13T21:45:41.225Z Done clearing all indexeddb stores
+INFO  2017-12-13T21:45:41.225Z clearing all stores done via clears complete
+INFO  2017-12-13T21:45:41.273Z clearing all stores done via transaction complete
+INFO  2017-12-13T21:45:41.277Z the import went wrong: Error: ENOENT: no such file or directory, open 'C:\Users\PC\Documents\دفاتر ملاحظات OneNote\db.json'
+INFO  2017-12-13T21:45:41.277Z Error importing: Error: ENOENT: no such file or directory, open 'C:\Users\PC\Documents\دفاتر ملاحظات OneNote\db.json'
+INFO  2017-12-13T21:45:41.297Z Clearing all indexeddb stores
+INFO  2017-12-13T21:45:41.297Z Done clearing store conversations
+INFO  2017-12-13T21:45:41.297Z Done clearing store groups
+INFO  2017-12-13T21:45:41.297Z Done clearing store identityKeys
+INFO  2017-12-13T21:45:41.297Z Done clearing store items
+INFO  2017-12-13T21:45:41.297Z Done clearing store messages
+INFO  2017-12-13T21:45:41.297Z Done clearing store preKeys
+INFO  2017-12-13T21:45:41.297Z Done clearing store sessions
+INFO  2017-12-13T21:45:41.301Z Done clearing store signedPreKeys
+INFO  2017-12-13T21:45:41.301Z Done clearing store unprocessed
+INFO  2017-12-13T21:45:41.301Z Done clearing all indexeddb stores
+INFO  2017-12-13T21:45:41.301Z clearing all stores done via clears complete
+INFO  2017-12-13T21:45:41.325Z clearing all stores done via transaction complete
+INFO  2017-12-13T21:46:50.176Z Clearing all indexeddb stores
+INFO  2017-12-13T21:46:50.176Z Done clearing store conversations
+INFO  2017-12-13T21:46:50.180Z Done clearing store groups
+INFO  2017-12-13T21:46:50.180Z Done clearing store identityKeys
+INFO  2017-12-13T21:46:50.180Z Done clearing store items
+INFO  2017-12-13T21:46:50.180Z Done clearing store messages
+INFO  2017-12-13T21:46:50.180Z Done clearing store preKeys
+INFO  2017-12-13T21:46:50.180Z Done clearing store sessions
+INFO  2017-12-13T21:46:50.180Z Done clearing store signedPreKeys
+INFO  2017-12-13T21:46:50.180Z Done clearing store unprocessed
+INFO  2017-12-13T21:46:50.180Z Done clearing all indexeddb stores
+INFO  2017-12-13T21:46:50.180Z clearing all stores done via clears complete
+INFO  2017-12-13T21:46:50.180Z clearing all stores done via transaction complete
+INFO  2017-12-13T21:46:50.180Z the import went wrong: Error: ENOENT: no such file or directory, open 'C:\Users\PC\Documents\دفاتر ملاحظات OneNote\شخصي\db.json'
+INFO  2017-12-13T21:46:50.184Z Error importing: Error: ENOENT: no such file or directory, open 'C:\Users\PC\Documents\دفاتر ملاحظات OneNote\شخصي\db.json'
+INFO  2017-12-13T21:46:50.212Z Clearing all indexeddb stores
+INFO  2017-12-13T21:46:50.212Z Done clearing store conversations
+INFO  2017-12-13T21:46:50.212Z Done clearing store groups
+INFO  2017-12-13T21:46:50.212Z Done clearing store identityKeys
+INFO  2017-12-13T21:46:50.212Z Done clearing store items
+INFO  2017-12-13T21:46:50.212Z Done clearing store messages
+INFO  2017-12-13T21:46:50.212Z Done clearing store preKeys
+INFO  2017-12-13T21:46:50.212Z Done clearing store sessions
+INFO  2017-12-13T21:46:50.212Z Done clearing store signedPreKeys
+INFO  2017-12-13T21:46:50.212Z Done clearing store unprocessed
+INFO  2017-12-13T21:46:50.212Z Done clearing all indexeddb stores
+INFO  2017-12-13T21:46:50.212Z clearing all stores done via clears complete
+INFO  2017-12-13T21:46:50.232Z clearing all stores done via transaction complete
+INFO  2017-12-13T21:48:37.754Z app ready
+INFO  2017-12-13T21:48:37.816Z Location reset needed
+INFO  2017-12-13T21:48:37.816Z Initializing BrowserWindow config: {"width":800,"height":610,"minWidth":700,"minHeight":360,"autoHideMenuBar":false,"webPreferences":{"nodeIntegration":false,"preload":"C:\\Users\\PC\\AppData\\Local\\Programs\\signal-desktop\\resources\\app.asar\\preload.js"}}
+INFO  2017-12-13T21:48:40.433Z Using OS-level spell check API with locale ar_SA
+INFO  2017-12-13T21:48:40.855Z pre-main prep time: 15 ms
+INFO  2017-12-13T21:48:40.902Z Build expires:  2018-02-26T23:55:00.000Z
+INFO  2017-12-13T21:48:40.948Z background page reloaded
+INFO  2017-12-13T21:48:40.948Z environment: production
+INFO  2017-12-13T21:48:41.216Z ConversationController: starting initial fetch
+INFO  2017-12-13T21:48:41.220Z ConversationController: done with initial fetch
+INFO  2017-12-13T21:48:41.228Z New version detected: 1.0.41
+INFO  2017-12-13T21:48:41.228Z listening for registration events
+INFO  2017-12-13T21:48:46.142Z opening provisioning socket https://textsecure-service.whispersystems.org
+INFO  2017-12-13T21:48:47.912Z provisioning socket open
+INFO  2017-12-13T21:49:07.679Z Updating BrowserWindow config: {"maximized":false,"autoHideMenuBar":false,"width":800,"height":610,"x":283,"y":59}
+INFO  2017-12-13T21:50:03.119Z app ready
+INFO  2017-12-13T21:50:03.166Z Initializing BrowserWindow config: {"width":800,"height":610,"minWidth":700,"minHeight":360,"autoHideMenuBar":false,"webPreferences":{"nodeIntegration":false,"preload":"C:\\Users\\PC\\AppData\\Local\\Programs\\signal-desktop\\resources\\app.asar\\preload.js"},"maximized":false,"x":283,"y":59}
+INFO  2017-12-13T21:50:05.681Z Using OS-level spell check API with locale ar_SA
+INFO  2017-12-13T21:50:06.149Z pre-main prep time: 16 ms
+INFO  2017-12-13T21:50:06.196Z Build expires:  2018-02-26T23:55:00.000Z
+INFO  2017-12-13T21:50:06.229Z background page reloaded
+INFO  2017-12-13T21:50:06.229Z environment: production
+INFO  2017-12-13T21:50:06.507Z ConversationController: starting initial fetch
+INFO  2017-12-13T21:50:06.507Z ConversationController: done with initial fetch
+INFO  2017-12-13T21:50:06.511Z listening for registration events
+INFO  2017-12-13T21:50:41.608Z Clearing all indexeddb stores
+INFO  2017-12-13T21:50:41.608Z Done clearing store conversations
+INFO  2017-12-13T21:50:41.608Z Done clearing store groups
+INFO  2017-12-13T21:50:41.608Z Done clearing store identityKeys
+INFO  2017-12-13T21:50:41.608Z Done clearing store items
+INFO  2017-12-13T21:50:41.608Z Done clearing store messages
+INFO  2017-12-13T21:50:41.608Z Done clearing store preKeys
+INFO  2017-12-13T21:50:41.608Z Done clearing store sessions
+INFO  2017-12-13T21:50:41.608Z Done clearing store signedPreKeys
+INFO  2017-12-13T21:50:41.608Z Done clearing store unprocessed
+INFO  2017-12-13T21:50:41.608Z Done clearing all indexeddb stores
+INFO  2017-12-13T21:50:41.608Z clearing all stores done via clears complete
+INFO  2017-12-13T21:50:41.636Z clearing all stores done via transaction complete
+INFO  2017-12-13T21:50:41.644Z the import went wrong: Error: ENOENT: no such file or directory, open 'C:\Users\PC\Downloads\db.json'
+INFO  2017-12-13T21:50:41.644Z Error importing: Error: ENOENT: no such file or directory, open 'C:\Users\PC\Downloads\db.json'
+INFO  2017-12-13T21:50:41.660Z Clearing all indexeddb stores
+INFO  2017-12-13T21:50:41.664Z Done clearing store conversations
+INFO  2017-12-13T21:50:41.664Z Done clearing store groups
+INFO  2017-12-13T21:50:41.664Z Done clearing store identityKeys
+INFO  2017-12-13T21:50:41.664Z Done clearing store items
+INFO  2017-12-13T21:50:41.664Z Done clearing store messages
+INFO  2017-12-13T21:50:41.664Z Done clearing store preKeys
+INFO  2017-12-13T21:50:41.664Z Done clearing store sessions
+INFO  2017-12-13T21:50:41.664Z Done clearing store signedPreKeys
+INFO  2017-12-13T21:50:41.664Z Done clearing store unprocessed
+INFO  2017-12-13T21:50:41.664Z Done clearing all indexeddb stores
+INFO  2017-12-13T21:50:41.664Z clearing all stores done via clears complete
+INFO  2017-12-13T21:50:41.692Z clearing all stores done via transaction complete
+INFO  2017-12-13T21:52:03.958Z Clearing all indexeddb stores
+INFO  2017-12-13T21:52:03.962Z Done clearing store conversations
+INFO  2017-12-13T21:52:03.962Z Done clearing store groups
+INFO  2017-12-13T21:52:03.962Z Done clearing store identityKeys
+INFO  2017-12-13T21:52:03.962Z Done clearing store items
+INFO  2017-12-13T21:52:03.962Z Done clearing store messages
+INFO  2017-12-13T21:52:03.962Z Done clearing store preKeys
+INFO  2017-12-13T21:52:03.962Z Done clearing store sessions
+INFO  2017-12-13T21:52:03.962Z Done clearing store signedPreKeys
+INFO  2017-12-13T21:52:03.962Z Done clearing store unprocessed
+INFO  2017-12-13T21:52:03.962Z Done clearing all indexeddb stores
+INFO  2017-12-13T21:52:03.966Z clearing all stores done via clears complete
+INFO  2017-12-13T21:52:03.966Z clearing all stores done via transaction complete
+INFO  2017-12-13T21:52:03.970Z the import went wrong: Error: ENOENT: no such file or directory, open 'C:\Users\PC\db.json'
+INFO  2017-12-13T21:52:03.970Z Error importing: Error: ENOENT: no such file or directory, open 'C:\Users\PC\db.json'
+INFO  2017-12-13T21:52:04.034Z Clearing all indexeddb stores
+INFO  2017-12-13T21:52:04.050Z Done clearing store conversations
+INFO  2017-12-13T21:52:04.050Z Done clearing store groups
+INFO  2017-12-13T21:52:04.050Z Done clearing store identityKeys
+INFO  2017-12-13T21:52:04.050Z Done clearing store items
+INFO  2017-12-13T21:52:04.050Z Done clearing store messages
+INFO  2017-12-13T21:52:04.050Z Done clearing store preKeys
+INFO  2017-12-13T21:52:04.050Z Done clearing store sessions
+INFO  2017-12-13T21:52:04.050Z Done clearing store signedPreKeys
+INFO  2017-12-13T21:52:04.050Z Done clearing store unprocessed
+INFO  2017-12-13T21:52:04.050Z Done clearing all indexeddb stores
+INFO  2017-12-13T21:52:04.050Z clearing all stores done via clears complete
+INFO  2017-12-13T21:52:04.112Z clearing all stores done via transaction complete
+INFO  2017-12-13T21:52:07.092Z Updating BrowserWindow config: {"maximized":false,"autoHideMenuBar":false,"width":800,"height":610,"x":283,"y":59}
+INFO  2017-12-13T21:53:32.906Z app ready
+INFO  2017-12-13T21:53:32.953Z Initializing BrowserWindow config: {"width":800,"height":610,"minWidth":700,"minHeight":360,"autoHideMenuBar":false,"webPreferences":{"nodeIntegration":false,"preload":"C:\\Users\\PC\\AppData\\Local\\Programs\\signal-desktop\\resources\\app.asar\\preload.js"},"maximized":false,"x":283,"y":59}
+INFO  2017-12-13T21:53:37.359Z Using OS-level spell check API with locale ar_SA
+INFO  2017-12-13T21:53:38.531Z pre-main prep time: 15 ms
+INFO  2017-12-13T21:53:38.781Z Build expires:  2018-02-26T23:55:00.000Z
+INFO  2017-12-13T21:53:39.047Z background page reloaded
+INFO  2017-12-13T21:53:39.047Z environment: production
+INFO  2017-12-13T21:53:41.044Z ConversationController: starting initial fetch
+INFO  2017-12-13T21:53:41.080Z ConversationController: done with initial fetch
+INFO  2017-12-13T21:53:41.116Z New version detected: 1.0.41
+INFO  2017-12-13T21:53:41.116Z listening for registration events
+INFO  2017-12-13T21:54:00.828Z Clearing all indexeddb stores
+INFO  2017-12-13T21:54:00.840Z Done clearing store conversations
+INFO  2017-12-13T21:54:00.840Z Done clearing store groups
+INFO  2017-12-13T21:54:00.840Z Done clearing store identityKeys
+INFO  2017-12-13T21:54:00.840Z Done clearing store items
+INFO  2017-12-13T21:54:00.840Z Done clearing store messages
+INFO  2017-12-13T21:54:00.840Z Done clearing store preKeys
+INFO  2017-12-13T21:54:00.840Z Done clearing store sessions
+INFO  2017-12-13T21:54:00.844Z Done clearing store signedPreKeys
+INFO  2017-12-13T21:54:00.844Z Done clearing store unprocessed
+INFO  2017-12-13T21:54:00.844Z Done clearing all indexeddb stores
+INFO  2017-12-13T21:54:00.844Z clearing all stores done via clears complete
+INFO  2017-12-13T21:54:00.908Z clearing all stores done via transaction complete
+INFO  2017-12-13T21:54:00.912Z the import went wrong: Error: ENOENT: no such file or directory, open 'C:\Users\PC\.android\db.json'
+INFO  2017-12-13T21:54:00.960Z Error importing: Error: ENOENT: no such file or directory, open 'C:\Users\PC\.android\db.json'
+INFO  2017-12-13T21:54:00.964Z Clearing all indexeddb stores
+INFO  2017-12-13T21:54:00.964Z Done clearing store conversations
+INFO  2017-12-13T21:54:00.964Z Done clearing store groups
+INFO  2017-12-13T21:54:00.964Z Done clearing store identityKeys
+INFO  2017-12-13T21:54:00.968Z Done clearing store items
+INFO  2017-12-13T21:54:00.968Z Done clearing store messages
+INFO  2017-12-13T21:54:00.968Z Done clearing store preKeys
+INFO  2017-12-13T21:54:00.968Z Done clearing store sessions
+INFO  2017-12-13T21:54:00.968Z Done clearing store signedPreKeys
+INFO  2017-12-13T21:54:00.968Z Done clearing store unprocessed
+INFO  2017-12-13T21:54:00.968Z Done clearing all indexeddb stores
+INFO  2017-12-13T21:54:00.968Z clearing all stores done via clears complete
+INFO  2017-12-13T21:54:00.996Z clearing all stores done via transaction complete
+INFO  2017-12-13T21:55:44.961Z Loaded this list of log files from logPath: log.log
